@@ -81,7 +81,7 @@ export default function App() {
             <header>
                 <div className="header-content flex flex-col md:flex-row items-center justify-between">
                     <div className="header-left flex items-center">
-                        <img src="logo.png" alt="Logo" className="logo-left h-24 md:h-32" />
+                        <img src="logo.png" alt="Cannon Bloom Logo" className="logo-left h-24 md:h-32" />
                     </div>
                     <div className="header-center py-4">
                         <h1 className="text-2xl md:text-5xl">FITTER MATH</h1>
@@ -107,8 +107,8 @@ export default function App() {
                         </div>
                     </div>
                     <div className="header-right hidden lg:flex gap-4">
-                        <img src="seal1.jpg" alt="Seal 1" className="seal h-24 w-24" />
-                        <img src="seal2.jpg" alt="Seal 2" className="seal h-24 w-24" />
+                        <img src="seal1.jpg" alt="Radiation Symbol" className="seal h-24 w-24" />
+                        <img src="seal2.jpg" alt="UA Local 598 Pasco WA Union Seal" className="seal h-24 w-24" />
                     </div>
                 </div>
             </header>
